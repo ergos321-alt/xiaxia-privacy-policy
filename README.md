@@ -1,2 +1,2 @@
 # xiaxia-privacy-policy
-Privacy policy page for Xiaxia GPT Action
+Historical privacy policy page for the retired Xiaxia GPT Action integration. See the notice in `privacy.html`; this is not the current Plugin/MCP privacy notice.
